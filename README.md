@@ -19,12 +19,6 @@ All of my current projects are on hiatus due to my computer breaking down. Hopef
 
 # Who are the beta testers?
 
-? = unsure
-1 = tested for the pre-project
-2 = tested for the pre-alpha (pre-code)
-3 = tested for the alpha (post-code)
+Amara (pre-project).
 
-
-Toast ?
-Angelic Art ?
-Amara 1
+UNSURE: Toast, Angelic
