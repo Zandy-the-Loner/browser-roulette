@@ -2,7 +2,7 @@
 Yep, Browser Roulette! No back, no website choosing! Start at Google, you pick the end!
 
 # Disclaimer:
-Forked due to laziness.
+Forked due to laziness. This is the only active fork, counting the original.
 
 # How does it work?
 It's basically a generic Web Page entity that's open on google, and text. Call it "Minimalmistic" if you want.
