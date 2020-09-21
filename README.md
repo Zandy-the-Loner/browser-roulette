@@ -20,7 +20,7 @@ All of my current projects are on hiatus due to my computer breaking down. Hopef
 # Who are the beta testers?
 
 (?) = Unsure
-* = Offered in previous stages but denied.
+^ = Offered in previous stages but denied.
 ------ PRE-PROJECT TESTERS -------
 Amara
 Toast (?)
