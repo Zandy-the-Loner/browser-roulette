@@ -14,7 +14,7 @@ INSPARATION: Wikibattle (https://wikibattle.me/)
 This should only be used as a joke, and should be handled as nothing but a joke.
 
 # Why is there nothing here?
-All of my current projects are on hiatus due to my computer breaking down. Hopefully I'll be back by Sunday. (the 27th as of september)
+I have yet to hook up my computer. After that, it's reinstalling Windows, Visual Basic, and then work will be started.
 
 
 # Who are the beta testers?
