@@ -14,7 +14,7 @@ INSPARATION: Wikibattle (https://wikibattle.me/)
 This should only be used as a joke, and should be handled as nothing but a joke.
 
 # Why is there nothing here?
-I have yet to hook up my computer. After that, it's reinstalling Windows, Visual Basic, and then work will be started.
+I have yet to release it's code, but when I do get some work done on this project, it will be hosted here.
 
 
 # Who are the beta testers?
