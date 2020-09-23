@@ -20,4 +20,4 @@ I have yet to release it's code, but when I do get some work done on this projec
 
 # Who are the beta testers?
 
-(PRE PROJECT) Amara
+Amara - Tested Pre-Project and The Github Version
