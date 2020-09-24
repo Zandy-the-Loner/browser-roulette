@@ -15,9 +15,6 @@ INSTALL STRUCTURE INSPARATION: Phoenix 1.x (https://drive.google.com/open?id=1XG
 # Should I use this browser on a daily basis?
 This should only be used as a joke, and should be handled as nothing but a joke.
 
-# Why is there nothing here?
-I have yet to release it's code, but when I do get some work done on this project, it will be hosted here.
-
 
 # Who are the beta testers?
 
